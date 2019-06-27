@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.clk11.com/"/>
-  <updated>2019-06-27T06:52:15.666Z</updated>
+  <updated>2019-06-27T15:00:25.363Z</updated>
   <id>http://www.clk11.com/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>测试test</title>
+    <link href="http://www.clk11.com/test.html"/>
+    <id>http://www.clk11.com/test.html</id>
+    <published>2019-06-27T06:32:49.000Z</published>
+    <updated>2019-06-27T15:00:25.363Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="这是一个test文件，用来忽悠各位看官。"><a href="#这是一个test文件，用来忽悠各位看官。" class="headerlink" title="这是一个test文件，用来忽悠各位看官。"></a>这是一个test文件，用来忽悠各位看官。</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;这是一个test文件，用来忽悠各位看官。&quot;&gt;&lt;a href=&quot;#这是一个test文件，用来忽悠各位看官。&quot; class=&quot;headerlink&quot; title=&quot;这是一个test文件，用来忽悠各位看官。&quot;&gt;&lt;/a&gt;这是一个test文件，用来忽悠各位看官。&lt;/h2&gt;
+      
+    
+    </summary>
+    
+      <category term="Test" scheme="http://www.clk11.com/categories/Test/"/>
+    
+    
+      <category term="test" scheme="http://www.clk11.com/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://www.clk11.com/hello-world/"/>
-    <id>http://www.clk11.com/hello-world/</id>
-    <published>2019-06-27T06:52:15.665Z</published>
-    <updated>2019-06-27T06:52:15.666Z</updated>
+    <link href="http://www.clk11.com/hello-world.html"/>
+    <id>http://www.clk11.com/hello-world.html</id>
+    <published>2019-06-26T15:23:23.000Z</published>
+    <updated>2019-06-27T15:00:14.247Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
@@ -42,27 +67,27 @@
   </entry>
   
   <entry>
-    <title>test</title>
-    <link href="http://www.clk11.com/test/"/>
-    <id>http://www.clk11.com/test/</id>
-    <published>2019-06-27T06:32:49.000Z</published>
-    <updated>2019-06-27T07:08:19.577Z</updated>
+    <title>关于Python编程从入门到实践中,动手试一试5-10</title>
+    <link href="http://www.clk11.com/Python-programming-from-entry-to-practic-5-10.html"/>
+    <id>http://www.clk11.com/Python-programming-from-entry-to-practic-5-10.html</id>
+    <published>2019-03-05T06:32:49.000Z</published>
+    <updated>2019-06-27T15:00:43.704Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="这是一个test文件，用来忽悠各位看官。"><a href="#这是一个test文件，用来忽悠各位看官。" class="headerlink" title="这是一个test文件，用来忽悠各位看官。"></a>这是一个test文件，用来忽悠各位看官。</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="关于Python编程从入门到实践中-动手试一试5-10"><a href="#关于Python编程从入门到实践中-动手试一试5-10" class="headerlink" title="关于Python编程从入门到实践中,动手试一试5-10"></a>关于Python编程从入门到实践中,动手试一试5-10</h2><p>blog:<a href="https://clk11.com" target="_blank" rel="noopener">github+hexo的blog链接</a><br>github:<a href="https://github.com/kenidi8215" target="_blank" rel="noopener">我的github传送</a></p><p><em>5-10 检查用户名：按下面的说明编写一个程序，模拟网站确保每位用户的用户名<br>独一无二的方式。<br>创建一个至少包含 5 个用户名的列表，并将其命名为 current_users。<br>再创建一个包含 5 个用户名的列表，将其命名为 new_users，并确保其中有一两<br>个用户名也包含在列表 current_users 中。<br> 遍历列表 new_users，对于其中的每个用户名，都检查它是否已被使用。如果是<br>这样，就打印一条消息，指出需要输入别的用户名；否则，打印一条消息，指<br>出这个用户名未被使用。<br>确保比较时不区分大消息；换句话说，如果用户名’John’已被使用，应拒绝用户<br>名’JOHN’。</em></p><p><strong>如题，百度了很多代码，对于最后一句话，很多答案并没有实现，自己更改了一下，学习使用，以作记录。</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">current_users=[&apos;John&apos;,&apos;B&apos;,&apos;c&apos;,&apos;d&apos;,&apos;e&apos;,&apos;h&apos;]</span><br><span class="line">print(current_users)</span><br><span class="line">current_user=[]#定义一个变量</span><br><span class="line">for x in current_users:</span><br><span class="line">    current_user.append(x.lower())#将列表转化为小写</span><br><span class="line">print(current_user)#测试是否转化了小写</span><br><span class="line">print(current_users)#测试原列表是否没被更改</span><br><span class="line">new_users=[&apos;JOHN&apos;,&apos;b&apos;,&apos;f&apos;,&apos;g&apos;,&apos;p&apos;]</span><br><span class="line">for new_user in new_users :</span><br><span class="line">    if new_user.lower() in current_user:#与转化了小写的current_user比较，少个s</span><br><span class="line">        print(new_user + &quot;,&quot; + &quot;You should print other name.&quot;)</span><br><span class="line">    else :</span><br><span class="line">        print(new_user + &quot;,&quot; + &quot;This name can use.&quot;)</span><br></pre></td></tr></table></figure><p>版本：python3.7</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;这是一个test文件，用来忽悠各位看官。&quot;&gt;&lt;a href=&quot;#这是一个test文件，用来忽悠各位看官。&quot; class=&quot;headerlink&quot; title=&quot;这是一个test文件，用来忽悠各位看官。&quot;&gt;&lt;/a&gt;这是一个test文件，用来忽悠各位看官。&lt;/h2&gt;
+        &lt;h2 id=&quot;关于Python编程从入门到实践中-动手试一试5-10&quot;&gt;&lt;a href=&quot;#关于Python编程从入门到实践中-动手试一试5-10&quot; class=&quot;headerlink&quot; title=&quot;关于Python编程从入门到实践中,动手试一试5-10&quot;&gt;&lt;/a&gt;关于Pyt
       
     
     </summary>
     
-      <category term="Test" scheme="http://www.clk11.com/categories/Test/"/>
+      <category term="Language" scheme="http://www.clk11.com/categories/Language/"/>
     
     
-      <category term="test" scheme="http://www.clk11.com/tags/test/"/>
+      <category term="python" scheme="http://www.clk11.com/tags/python/"/>
     
   </entry>
   
