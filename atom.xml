@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.clk11.com/"/>
-  <updated>2019-06-27T15:00:25.363Z</updated>
+  <updated>2019-06-28T04:29:17.046Z</updated>
   <id>http://www.clk11.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>祛痘精油</title>
+    <link href="http://www.clk11.com/tutu-qudoujingyou.html"/>
+    <id>http://www.clk11.com/tutu-qudoujingyou.html</id>
+    <published>2019-06-28T04:32:49.000Z</published>
+    <updated>2019-06-28T04:29:17.046Z</updated>
+    
+    <content type="html"><![CDATA[<p>祛痘精油<br>含有茶树、迷迭香、薰衣草、洋甘菊等多种植物精油，对任何痘痘都有效，每次只需要一点点涂抹在痘痘上即可。满满的植物精油的气味，真正的无添加哦。</p><p><img src="https://i.loli.net/2019/06/28/5d159787eeff033486.png" alt="图图的芳疗群"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;祛痘精油&lt;br&gt;含有茶树、迷迭香、薰衣草、洋甘菊等多种植物精油，对任何痘痘都有效，每次只需要一点点涂抹在痘痘上即可。满满的植物精油的气味，真正的无添加哦。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2019/06/28/5d159787eeff
+      
+    
+    </summary>
+    
+      <category term="Friends" scheme="http://www.clk11.com/categories/Friends/"/>
+    
+    
+      <category term="图图的芳疗" scheme="http://www.clk11.com/tags/%E5%9B%BE%E5%9B%BE%E7%9A%84%E8%8A%B3%E7%96%97/"/>
+    
+  </entry>
   
   <entry>
     <title>测试test</title>
@@ -63,6 +89,31 @@
     
     
       <category term="test" scheme="http://www.clk11.com/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python问题解决：ImportError_ No module named &#39;pygal.i18n&#39;</title>
+    <link href="http://www.clk11.com/Python-programming-from-entry-to-practic-pygal.i18n.html"/>
+    <id>http://www.clk11.com/Python-programming-from-entry-to-practic-pygal.i18n.html</id>
+    <published>2019-04-01T14:22:49.000Z</published>
+    <updated>2019-06-28T04:17:36.737Z</updated>
+    
+    <content type="html"><![CDATA[<p>blog:<a href="https://clk11.com" target="_blank" rel="noopener">github+hexo的blog链接</a><br>github:<a href="https://github.com/kenidi8215" target="_blank" rel="noopener">我的github传送</a><br>CSDN:<a href="https://blog.csdn.net/kenidi8215" target="_blank" rel="noopener">我的CSDN博客</a></p><p>在《Python编程：从入门到实践》书中的一个项目用到pygal.i18n获取国别码，然而，现在pygal已经没有i18n模块，要改用pygal_maps_world.i18n，解决方法如下：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">在终端中运行下面语句（注意pip3/pip）</span><br><span class="line">pip install pygal_maps_world</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">在代码文件中添加下面语句：</span><br><span class="line">from pygal_maps_world.i18n import COUNTRIES</span><br></pre></td></tr></table></figure><p><img src="https://img-blog.csdnimg.cn/20190401152446219.jpg" alt="在这里插入图片描述"></p><p><img src="https://img-blog.csdnimg.cn/20190401152508241.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2tlbmlkaTgyMTU=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;blog:&lt;a href=&quot;https://clk11.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;github+hexo的blog链接&lt;/a&gt;&lt;br&gt;github:&lt;a href=&quot;https://github.com/kenidi8215&quot; 
+      
+    
+    </summary>
+    
+      <category term="Language" scheme="http://www.clk11.com/categories/Language/"/>
+    
+    
+      <category term="python" scheme="http://www.clk11.com/tags/python/"/>
     
   </entry>
   
